@@ -1,1 +1,13 @@
 /* BASIC STYLES HERE */
+.grass {
+  color: rgb(0, 170, 0);
+}
+
+.pokemon {
+  height: 30vh;
+  width: 30vh;
+}
+
+.book {
+  color: rgb(205, 43, 43);
+}
